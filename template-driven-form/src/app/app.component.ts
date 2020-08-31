@@ -10,6 +10,7 @@ import { PasswordValidator } from './shared/password.validator';
 })
 export class AppComponent implements OnInit{
   title = 'Reactive Form Demo';
+  // title = 'Reactive Form Demo';
 
   registrationForm:FormGroup;
 
